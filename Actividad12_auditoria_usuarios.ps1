@@ -1,3 +1,4 @@
+#Editado por Alexa Murillo el 13 de marzo de 2026
 # Obtener todos los usuarios locales del sistema
 $usuarios = Get-LocalUser
 
