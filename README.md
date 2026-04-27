@@ -28,3 +28,5 @@ Al desarrollar estos scripts aprendí a usar PowerShell para automatizar revisio
 También aprendí que en scripting no solo importa el código, sino también cómo se guarda y se ejecuta el archivo. Durante la actividad tuve problemas al guardar el script en Bloc de notas, ya que algunas comillas o formatos provocaban errores al ejecutarlo, por lo que fue necesario revisar la codificación y la forma en que el archivo estaba guardado.
 
 Estas actividades me ayudaron a entender mejor cómo la automatización puede apoyar tareas de ciberseguridad y monitoreo del sistema.
+
+Actualización dia 26 de Abril de 2026, este repositorio ahora incluye las evidencias presentadas en las carpetas correspondientes al lenguaje de programación utilizado.
