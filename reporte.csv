@@ -1,0 +1,4 @@
+Title,Domain,BreachDate,DataClasses,IsVerified,IsSensitive
+Canva,canva.com,2019-05-24,"Email addresses, Geographic locations, Names, Passwords, Usernames",True,False
+Young Living Essential Oils,youngliving.com,2024-12-11,"Dates of birth, Email addresses, Geographic locations, Names",True,False
+Manipulated Caiman,,2023-07-16,Email addresses,True,False
